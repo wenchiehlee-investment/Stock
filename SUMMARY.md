@@ -551,3 +551,128 @@
     
     
 
+## 檔案統計（排除 `.git`）
+
+| 項目 | 數量 |
+| --- | ---: |
+| 全部檔案總數 | 1483 |
+
+| MIME 類型 | 檔案數 |
+| --- | ---: |
+| `text/plain` | 633 |
+| `image/png` | 392 |
+| `image/jpeg` | 282 |
+| `application/pdf` | 56 |
+| `text/html` | 52 |
+| `image/gif` | 25 |
+| `application/json` | 10 |
+| `application/vnd.openxmlformats-officedocument.spreadsheetml.sheet` | 7 |
+| `image/webp` | 4 |
+| `application/vnd.openxmlformats-officedocument.wordprocessingml.document` | 4 |
+| `application/octet-stream` | 4 |
+| `inode/x-empty` | 3 |
+| `application/x-bzip2` | 3 |
+| `application/vnd.ms-excel` | 3 |
+| `text/x-script.python` | 2 |
+| `text/x-c++` | 1 |
+| `application/zip` | 1 |
+| `application/x-coredump` | 1 |
+
+## PDF 與 MD 對照表（排除 `.git`）
+
+| PDF | 對應 MD | 狀態 |
+| --- | --- | --- |
+| `./BOS/data/90天財富手冊-BOS.pdf` | `./BOS/data/90天財富手冊-BOS.md` | OK |
+| `./BOS/data/價值投資的秘密_BOS.pdf` | `./BOS/data/價值投資的秘密_BOS.md` | OK |
+| `./chapter/compiler-intro-160630161929.pdf` | `./chapter/compiler-intro-160630161929.md` | OK |
+| `./maikefeng/data/maikefeng/www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf` | `./maikefeng/data/maikefeng/www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.md` | OK |
+| `./maikefeng/data/【36歲股市贏家】價值選股加季線控制水位　資深鄉民36歲滾出千萬財富.pdf` | `./maikefeng/data/【36歲股市贏家】價值選股加季線控制水位　資深鄉民36歲滾出千萬財富.md` | OK |
+| `./stock_data/Smart.181.pdf` | `./stock_data/Smart.181.md` | OK |
+| `./stock_data/data_ebook/Smart.181.pdf` | `./stock_data/data_ebook/Smart.181.md` | OK |
+| `./stock_data/data_ebook/個股基本資料填寫示範表 001.pdf` | `./stock_data/data_ebook/個股基本資料填寫示範表 001.md` | OK |
+| `./stock_data/data_ebook/存股2.0.pdf` | `./stock_data/data_ebook/存股2.0.md` | OK |
+| `./stock_data/data_ebook/巴小智2017年20檔精選名單new.pdf` | `./stock_data/data_ebook/巴小智2017年20檔精選名單new.md` | OK |
+| `./stock_data/data_ebook/矩陣存股檢查表_製作流程參考001.pdf` | `./stock_data/data_ebook/矩陣存股檢查表_製作流程參考001.md` | OK |
+| `./stock_data/data_ebook/矩陣存股檢查表製作流程參考.pdf` | `./stock_data/data_ebook/矩陣存股檢查表製作流程參考.md` | OK |
+| `./stock_data/data_ebook/矩陣式存股法閱讀心得.pdf` | `./stock_data/data_ebook/矩陣式存股法閱讀心得.md` | OK |
+| `./stock_data/data_ebook/給巴小智_財報研習社的公開信.pdf` | `./stock_data/data_ebook/給巴小智_財報研習社的公開信.md` | OK |
+| `./stock_data/data_ebook/財報狗教你挖好股穩穩賺 研習進度表.pdf` | `./stock_data/data_ebook/財報狗教你挖好股穩穩賺 研習進度表.md` | OK |
+| `./stock_data/data_ebook/財報研習社團發文.pdf` | `./stock_data/data_ebook/財報研習社團發文.md` | OK |
+| `./stock_data/data_ebook/關於聯強的二三事.pdf` | `./stock_data/data_ebook/關於聯強的二三事.md` | OK |
+| `./stock_data/data_ebook/雷浩斯教你6步驟存好股_這樣做_就能獲利翻倍.pdf` | `./stock_data/data_ebook/雷浩斯教你6步驟存好股_這樣做_就能獲利翻倍.md` | OK |
+| `./stock_data/data_ebook/雷浩斯教你小薪水存好股又賺波段  研習進度表.pdf` | `./stock_data/data_ebook/雷浩斯教你小薪水存好股又賺波段  研習進度表.md` | OK |
+| `./stock_data/data_ebook/雷浩斯教你矩陣式存股法年賺18.pdf` | `./stock_data/data_ebook/雷浩斯教你矩陣式存股法年賺18.md` | OK |
+| `./stock_data/data_ebook/雷浩斯教你矩陣式存股法年賺18_.pdf` | `./stock_data/data_ebook/雷浩斯教你矩陣式存股法年賺18_.md` | OK |
+| `./stock_data/whisker-ebook.pdf` | `./stock_data/whisker-ebook.md` | OK |
+| `./stock_data/三大報表閱讀重點與分析技巧.pdf` | `./stock_data/三大報表閱讀重點與分析技巧.md` | OK |
+| `./stock_data/個股基本資料填寫示範表 001.pdf` | `./stock_data/個股基本資料填寫示範表 001.md` | OK |
+| `./stock_data/價廉物美的投資策略.pdf` | `./stock_data/價廉物美的投資策略.md` | OK |
+| `./stock_data/多空操作祕笈.pdf` | `./stock_data/多空操作祕笈.md` | OK |
+| `./stock_data/好懂秒懂的財報課.pdf` | `./stock_data/好懂秒懂的財報課.md` | OK |
+| `./stock_data/如何在台股運用＿巴菲特勝券在握的12個原則.pdf` | `./stock_data/如何在台股運用＿巴菲特勝券在握的12個原則.md` | OK |
+| `./stock_data/存股2.0.pdf` | `./stock_data/存股2.0.md` | OK |
+| `./stock_data/巴小智2017年20檔精選名單new.pdf` | `./stock_data/巴小智2017年20檔精選名單new.md` | OK |
+| `./stock_data/巴小智公開持股報告書/20160930 巴小智公開持股書.pdf` | `./stock_data/巴小智公開持股報告書/20160930 巴小智公開持股書.md` | OK |
+| `./stock_data/巴小智公開持股報告書/20170930巴小智公開持股書 v2.0.pdf` | `./stock_data/巴小智公開持股報告書/20170930巴小智公開持股書 v2.0.md` | OK |
+| `./stock_data/巴小智公開持股報告書/公開持股報告-20150930.pdf` | `./stock_data/巴小智公開持股報告書/公開持股報告-20150930.md` | OK |
+| `./stock_data/巴小智公開持股報告書/巴小智公開帳戶持股明細20130930.pdf` | `./stock_data/巴小智公開持股報告書/巴小智公開帳戶持股明細20130930.md` | OK |
+| `./stock_data/巴小智公開持股報告書/巴小智公開持股記錄20140930.pdf` | `./stock_data/巴小智公開持股報告書/巴小智公開持股記錄20140930.md` | OK |
+| `./stock_data/巴菲特給股東的信_導讀簡報.pdf` | `./stock_data/巴菲特給股東的信_導讀簡報.md` | OK |
+| `./stock_data/投資雜談.pdf` | `./stock_data/投資雜談.md` | OK |
+| `./stock_data/散戶投資上手的第一本書：45個投資必勝全攻略──觀念、技術、心理、操作.pdf` | `./stock_data/散戶投資上手的第一本書：45個投資必勝全攻略──觀念、技術、心理、操作.md` | OK |
+| `./stock_data/散戶的50道難題：一次解開所有台股散戶們的共同疑問.pdf` | `./stock_data/散戶的50道難題：一次解開所有台股散戶們的共同疑問.md` | OK |
+| `./stock_data/現金流量表.pdf` | `./stock_data/現金流量表.md` | OK |
+| `./stock_data/現金流量表的財務會計準則公報.pdf` | `./stock_data/現金流量表的財務會計準則公報.md` | OK |
+| `./stock_data/矩陣存股檢查表_製作流程參考001.pdf` | `./stock_data/矩陣存股檢查表_製作流程參考001.md` | OK |
+| `./stock_data/矩陣存股檢查表製作流程參考.pdf` | `./stock_data/矩陣存股檢查表製作流程參考.md` | OK |
+| `./stock_data/矩陣式存股法閱讀心得.pdf` | `./stock_data/矩陣式存股法閱讀心得.md` | OK |
+| `./stock_data/短波段必勝交易法.pdf` | `./stock_data/短波段必勝交易法.md` | OK |
+| `./stock_data/給巴小智_財報研習社的公開信.pdf` | `./stock_data/給巴小智_財報研習社的公開信.md` | OK |
+| `./stock_data/解讀財務報表重點及法則-郭恭克執行長.pdf` | `./stock_data/解讀財務報表重點及法則-郭恭克執行長.md` | OK |
+| `./stock_data/財務報表透視篇.pdf` | `./stock_data/財務報表透視篇.md` | OK |
+| `./stock_data/財報狗教你挖好股穩穩賺 研習進度表.pdf` | `./stock_data/財報狗教你挖好股穩穩賺 研習進度表.md` | OK |
+| `./stock_data/財報研習社團發文.pdf` | `./stock_data/財報研習社團發文.md` | OK |
+| `./stock_data/超越大盤的獲利公式（106.11.29）.pdf` | `./stock_data/超越大盤的獲利公式（106.11.29）.md` | OK |
+| `./stock_data/關於聯強的二三事.pdf` | `./stock_data/關於聯強的二三事.md` | OK |
+| `./stock_data/雷浩斯教你6步驟存好股_這樣做_就能獲利翻倍.pdf` | `./stock_data/雷浩斯教你6步驟存好股_這樣做_就能獲利翻倍.md` | OK |
+| `./stock_data/雷浩斯教你小薪水存好股又賺波段  研習進度表.pdf` | `./stock_data/雷浩斯教你小薪水存好股又賺波段  研習進度表.md` | OK |
+| `./stock_data/雷浩斯教你矩陣式存股法年賺18.pdf` | `./stock_data/雷浩斯教你矩陣式存股法年賺18.md` | OK |
+| `./stock_data/雷浩斯教你矩陣式存股法年賺18_.pdf` | `./stock_data/雷浩斯教你矩陣式存股法年賺18_.md` | OK |
+
+## 股市大師代表文章（本機）
+
+| 大師 | 文章 | 路徑 |
+| --- | --- | --- |
+| 巴菲特 | 巴菲特給股東的信_導讀簡報 | `stock_data/巴菲特給股東的信_導讀簡報.md` |
+| 巴菲特 | 巴菲特核心投資法 | `book/ba_fei_te_he_xin_tou_zi_fa.md` |
+| 巴菲特 | 股神巴菲特的神諭（上） | `book/gu_shen_ba_fei_te_de_shen_yu_ff08_shang_ff09.md` |
+| 巴菲特 | 股神巴菲特的神諭（下） | `book/gu_shen_ba_fei_te_de_shen_yu_ff08_xia_ff09.md` |
+| 費雪 | 費雪如何發展投資哲學之一 | `bankernemo/fei_xue_ru_he_fa_zhan_tou_zi_zhe_xue_zhi_yi.md` |
+| 費雪 | 費雪如何發展投資哲學之二 | `bankernemo/fei_xue_ru_he_fa_zhan_tou_zi_zhe_xue_zhi_er.md` |
+| 費雪 | 第五章－何時買進1/2 | `bankernemo/di_wu_zhang_ff0d_he_shi_mai_jin_1__2.md` |
+| 葛拉漢 | 價值投資始祖葛拉漢 30年平均獲利20%解密：買得便宜(不虧本)、買得安全(少負債)，還要分散風險！ | `chapter3/jia_zhi_tou_zi_shi_zu_ge_la_han_30_nian_ping_jun_h.md` |
+| 葛拉漢 | 《葛拉漢教你看懂財務報表》讀書心得 | `redhouse/300a_ge_la_han_jiao_ni_kan_dong_cai_wu_bao_biao_30.md` |
+| 彼得林區 | 彼得林區選股戰略 | `book/bi_de_lin_qu_xuan_gu_zhan_lve.md` |
+| 霍華馬克斯 | 霍華馬克斯《投資最重要的事》 – 對「好的不像是真的」抱持懷疑 | `book/huo_hua_ma_ke_si_300a_tou_zi_zui_zhong_yao_de_shi_.md` |
+| 霍華馬克斯 | 霍華德·馬克斯備忘錄 2017-01-10：專家觀點 | `good/huo_hua_5fb7b7_ma_ke_si_bei_wang_lu_2017_-_01_-_10.md` |
+| 查理孟格 | 孟格和巴菲特如何評價分散投資或集中投資 | `bankernemo/meng_ge_he_ba_fei_te_ru_he_ping_jia_fen_san_tou_zi.md` |
+| 塞思卡拉曼 | 安全邊際 Margin of Safety by Seth Klarman (valuepartnersblog) | `book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md` |
+| 塞思卡拉曼 | Seth Klarman：巴菲特教我的事 | `good/seth_klarmanff1a_ba_fei_te_jiao_wo_de_shi.md` |
+| 科斯托蘭尼 | 《一個投機者的告白》科斯托蘭尼 – 41句投資經典語錄 | `300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_ke_si_tuo_la.md` |
+
+> 本機 `Stock` 目錄以關鍵字 `ba_fei_te|gu_shen|fei_xue|ge_la_han|lin_qu|meng_ge|ma_ke_si|klarman|巴菲特|股神|費雪|葛拉漢|彼得林區|孟格|馬克斯|霍華` 掃描，共命中 45 篇 `.md` 文章。
+
+## 股市大師對股價漲跌因素觀點對照（本機）
+
+| 大師 | 主要觀點（影響股價漲跌） | 參考 |
+| --- | --- | --- |
+| 巴菲特 | 長期由企業內在價值、現金流與保留盈餘驅動；短期受情緒與市場噪音干擾；不迷信預測。 | `book/ba_fei_te_he_xin_tou_zi_fa.md:23`, `book/ba_fei_te_he_xin_tou_zi_fa.md:45`, `book/ba_fei_te_he_xin_tou_zi_fa.md:105`, `book/gu_shen_ba_fei_te_de_shen_yu_ff08_shang_ff09.md:22` |
+| 費雪 | 不靠景氣/利率預測抓時點；重點在成長股的技術商轉、研發投入、銷售擴張與盈餘路徑。 | `bankernemo/di_wu_zhang_ff0d_he_shi_mai_jin_1__2.md:6`, `bankernemo/di_wu_zhang_ff0d_he_shi_mai_jin_1__2.md:20`, `bankernemo/di_wu_zhang_ff0d_he_shi_mai_jin_1__2.md:32`, `bankernemo/fei_xue_ru_he_fa_zhan_tou_zi_zhe_xue_zhi_er.md:13` |
+| 葛拉漢 | 估值便宜度（PB/淨值）與安全邊際是核心；低負債與分散降低風險、提升長期勝率。 | `chapter3/jia_zhi_tou_zi_shi_zu_ge_la_han_30_nian_ping_jun_h.md:9`, `chapter3/jia_zhi_tou_zi_shi_zu_ge_la_han_30_nian_ping_jun_h.md:87`, `chapter3/jia_zhi_tou_zi_shi_zu_ge_la_han_30_nian_ping_jun_h.md:161`, `redhouse/300a_ge_la_han_jiao_ni_kan_dong_cai_wu_bao_biao_30.md:35` |
+| 彼得林區 | 不預測利率、經濟與大盤；股價終究跟公司基本面（營收、現金流）走。 | `book/bi_de_lin_qu_xuan_gu_zhan_lve.md:14`, `book/bi_de_lin_qu_xuan_gu_zhan_lve.md:16`, `book/bi_de_lin_qu_xuan_gu_zhan_lve.md:28` |
+| 霍華馬克斯 | 觀察市場情緒與週期是否極端；宏觀雖重要但多不可知，許多預期已先反映在價格。 | `good/huo_hua_5fb7b7_ma_ke_si_bei_wang_lu_2017_-_01_-_10.md:61`, `good/huo_hua_5fb7b7_ma_ke_si_bei_wang_lu_2017_-_01_-_10.md:81`, `good/huo_hua_5fb7b7_ma_ke_si_bei_wang_lu_2017_-_01_-_10.md:97`, `good/huo_hua_5fb7b7_ma_ke_si_bei_wang_lu_2017_-_01_-_10.md:118` |
+| 查理孟格 | 漲跌判斷關鍵在「理解深度」與「機會品質」；懂得多可集中，不懂就分散。 | `bankernemo/meng_ge_he_ba_fei_te_ru_he_ping_jia_fen_san_tou_zi.md:4`, `bankernemo/meng_ge_he_ba_fei_te_ru_he_ping_jia_fen_san_tou_zi.md:6` |
+| 塞思卡拉曼 | 價格-價值錯配、安全邊際與風險控制主導決策；情緒與群體行為使價格偏離價值。 | `book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md:16`, `book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md:34`, `book/an_quan_bian_ji_margin_of_safety_by_seth_klarman__.md:38`, `good/seth_klarmanff1a_ba_fei_te_jiao_wo_de_shi.md:14` |
+| 科斯托蘭尼 | 短中期漲跌受供需、趨勢、成交量、消息反應與情緒轉折驅動；並受景氣循環與通膨影響。 | `300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_ke_si_tuo_la.md:62`, `300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_ke_si_tuo_la.md:68`, `300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_ke_si_tuo_la.md:78`, `300a_yi_ge_tou_ji_zhe_de_gao_bai_300b_ke_si_tuo_la.md:100` |
+
+> 總結：多數大師共識是「短期由情緒、資金與預期驅動；長期回歸企業價值與現金流」。
